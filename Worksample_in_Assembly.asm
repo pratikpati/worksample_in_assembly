@@ -1,7 +1,9 @@
 //This Program is only a worksample.
+//Many Functions not Included In the Code Intentionally!
 //Written In 20 Mins Just to get a desired Output from a small prototype.
 //Microcontroller-AT89S52
 //Skills Used- UART,RS232
+
 
 //Working-
 //THIS PROGRAM WILL READ A RFID CARD
